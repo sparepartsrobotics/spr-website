@@ -35,7 +35,8 @@ Match won with a penalty free score of 63 to 55.
 
 ## A Closer Look at Our Robot
 
-###
+### The Catstone
+The Capstone we use is based off of our team mascot, Linus the cat. He inspired to make this unique "Catstone" 
 <div class="grid-container">
 <div class="grid grid--p-3">
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
