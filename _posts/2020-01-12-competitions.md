@@ -17,7 +17,7 @@ tags:
 - match
 ---
 
-A post with aside on the right.
+The season has been going great so far and there are plenty more posts to come. Here are some of the highlights of our recent competition.
 
 <!--more-->
 
