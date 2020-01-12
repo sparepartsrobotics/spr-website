@@ -10,6 +10,7 @@ article_header:
     src: /screenshots/teampostwithrobot.jpg
 aside:
   toc: true
+  
 ---
 A post with aside on the right.
 
