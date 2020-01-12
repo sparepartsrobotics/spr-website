@@ -23,6 +23,7 @@ A post with aside on the right.
 
 ## Match Videos from FTC Cary Tournament 2019 Meet 2
 Below are matches from our most recent competition at Cary Grove High School.
+
 ### Match Q-9
 Alliance partner Team 12682 - The Golden Ratio
 Match won with a penalty free score of 85 to 11.
@@ -38,10 +39,22 @@ Match won with a penalty free score of 63 to 55.
 ### The Catstone
 The Capstone we use is based off of our team mascot, Linus the cat. He inspired to make this unique "Catstone" 
 <div class="grid-container">
-<div class="grid grid--p-3">
+<div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](https://raw.githubusercontent.com/sparepartsrobotics/spr-website/testing/screenshots/capstonesmaller.jpg "Our Catstone"){:.rounded}
 </div>
+<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
+![Image](https://raw.githubusercontent.com/sparepartsrobotics/spr-website/testing/screenshots/linus.jpg "Linus Himself"){:.rounded}
 </div>
 </div>
-## Header 3
+</div>
+
+### Cat Keychains
+We have plenty of 3D printed keychains of our catstone with the addition of the FIRST logo to give to other teams and at outreaches.
+<div class="gird-containre">
+<div class="grid grid--p-1">
+<div class="cell cell--12 cell--md-4 " markdown="1">
+![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
+</div>
+</div>
+</div>
