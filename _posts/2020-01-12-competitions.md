@@ -7,7 +7,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /screenshots/teampostcover1.jpg
+    src: https://raw.githubusercontent.com/sparepartsrobotics/spr-website/master/screenshots/teampostcover1.jpg
 aside:
   toc: true
 tags:
@@ -53,7 +53,7 @@ The Capstone we use is based off of our team mascot, Linus the cat. He inspired 
 We have plenty of 3D printed keychains of our catstone with the addition of the FIRST logo to give to other teams and at outreaches. Also, we printed many logo keychians.
 
 <div class="grid-container">
-<div class="grid grid--p-3">
+<div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](https://raw.githubusercontent.com/sparepartsrobotics/spr-website/master/screenshots/catchain.JPG "Cat Keychains"){:.rounded}
 </div>
