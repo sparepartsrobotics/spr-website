@@ -72,3 +72,6 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+  
+  - title:      Contact 
+    url:        /contact.html
