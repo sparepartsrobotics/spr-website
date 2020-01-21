@@ -7,7 +7,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /screenshots/teampostwithrobot.jpg
+    src: /master/screenshots/teampostcover1.jpg
 aside:
   toc: true
 tags:
@@ -25,12 +25,12 @@ The season has been going great so far and there are plenty more posts to come. 
 Below are matches from our most recent competition at Cary Grove High School.
 
 ### Match Q-9
-Alliance partner Team 12682 - The Golden Ratio
+Alliance partner Team 12682 - The Golden Ratio (1:26:10)
 Match won with a penalty free score of 85 to 11.
 <div>{%- include extensions/youtube.html id='jdqBcOpnU_4?t=5170' -%}</div>
 
 ### Match Q-15
-Alliance partner Team 1531 Crystal Lake South Robotics - Green Machines
+Alliance partner Team 1531 Crystal Lake South Robotics - Green Machines (2:09:00)
 Match won with a penalty free score of 63 to 55.
 <div>{%- include extensions/youtube.html id='jdqBcOpnU_4?t=7744' -%}</div>
 
@@ -57,6 +57,7 @@ We have plenty of 3D printed keychains of our catstone with the addition of the 
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](https://raw.githubusercontent.com/sparepartsrobotics/spr-website/master/screenshots/catchain.JPG "Cat Keychains"){:.rounded}
 </div>
+<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
 ![Image](https://raw.githubusercontent.com/sparepartsrobotics/spr-website/master/screenshots/sprchain.JPG "LOGO Keychains"){:.rounded}
 </div>
 </div>
