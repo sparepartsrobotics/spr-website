@@ -26,7 +26,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About FTC Team\#11848
+      en      : &EN       About FTC Team \#11848
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
