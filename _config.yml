@@ -22,7 +22,7 @@ url     : http://sparepartsrobotics.com # the base hostname & protocol for your 
 baseurl : # does not include hostname
 title   : Spare Parts Robotics
 description: > # this means to ignore newlines until "Language & timezone"
-  Team Website and Blog for Spare Parts Robotics, Team#11848
+  Team Website and Blog for Spare Parts Robotics, FTC Team #11848, Cary Illinois
 
 
 ## => Language and Timezone
